@@ -12,7 +12,7 @@ Ce script permet d'apporter une légère modification aux images sans en changer
 - Modifie les images sans toucher à leur taille d'origine
 - Compatible avec plusieurs formats (JPEG, PNG, etc.)
 - Peut traiter un grand nombre d'images automatiquement
-- Fourni en version script Python et en exécutable `.exe` prêt à l'emploi
+- Fourni en version script Python et en exécutable `.exe` prêt à l'emploi, il suffit d'avoir un dossier images_origines dans le même dossier que l'executable
 
 ## Installation
 
